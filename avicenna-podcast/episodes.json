@@ -5,8 +5,9 @@
     "description": "A two-host deep dive into Goldman Sachs' October 2026 report 'Playing for Scale: The Future of Sports Investing': media rights, institutional capital, multi-club ownership, the new fan era, smart stadiums, generative AI, women's and college sport, and international expansion, each tied back to NextPlay's product and strategy, with takeaways at the end. Voices are AI-generated.",
     "pub": "2026-11-26T05:00:00+13:00",
     "guid": "avicenna-briefing-ep01-playing-for-scale",
-    "file": "ep01-playing-for-scale.mp3",
-    "bytes": 34052780,
-    "duration": "00:47:03"
+    "file": "https://cdn.jsdelivr.net/gh/sharnobyl/gif-repo@47ffd121931a5caaa940d73afe5b414e54ddb669/avicenna-podcast/ep01-playing-for-scale-48k.mp3",
+    "bytes": 17110401,
+    "duration": "00:47:03",
+    "full_quality_url": "https://raw.githubusercontent.com/sharnobyl/gif-repo/main/avicenna-podcast/ep01-playing-for-scale.mp3"
   }
 ]

@@ -15,7 +15,7 @@ for ep in sorted(eps,key=lambda x:x["pub"],reverse=True):
       <itunes:summary>{e(ep['description'])}</itunes:summary>
       <pubDate>{rfc(ep['pub'])}</pubDate>
       <guid isPermaLink="false">{e(ep['guid'])}</guid>
-      <enclosure url="{e(cfg['media_base']+ep['file'])}" length="{ep['bytes']}" type="audio/mpeg"/>
+      <enclosure url="{e(ep['file'] if ep['file'].startswith('http') else cfg['media_base']+ep['file'])}" length="{ep['bytes']}" type="audio/mpeg"/>
       <itunes:duration>{ep['duration']}</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>{ep['number']}</itunes:episode>
