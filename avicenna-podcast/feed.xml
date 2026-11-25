@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Avicenna Briefing</title>
+    <link>https://github.com/sharnobyl/gif-repo/tree/main/avicenna-podcast</link>
+    <atom:link href="https://cdn.jsdelivr.net/gh/sharnobyl/gif-repo@main/avicenna-podcast/feed.xml" rel="self" type="application/rss+xml"/>
+    <language>en</language>
+    <description>Private deep-dive episodes made by Avicenna for Sharjil: reports and ideas, explained in detail and connected to NextPlay. Not listed in the Apple Podcasts directory.</description>
+    <itunes:summary>Private deep-dive episodes made by Avicenna for Sharjil: reports and ideas, explained in detail and connected to NextPlay. Not listed in the Apple Podcasts directory.</itunes:summary>
+    <itunes:author>Avicenna</itunes:author>
+    <itunes:image href="https://raw.githubusercontent.com/sharnobyl/gif-repo/main/avicenna-podcast/cover.jpg"/>
+    <image><url>https://raw.githubusercontent.com/sharnobyl/gif-repo/main/avicenna-podcast/cover.jpg</url><title>Avicenna Briefing</title><link>https://github.com/sharnobyl/gif-repo/tree/main/avicenna-podcast</link></image>
+    <itunes:category text="Business"/>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <itunes:block>Yes</itunes:block>
+    <lastBuildDate>Wed, 25 Nov 2026 15:30:59 +0000</lastBuildDate>
+    <item>
+      <title>Playing for Scale: What the Goldman Sachs sports investing report means for NextPlay</title>
+      <description>A two-host deep dive into Goldman Sachs' October 2026 report 'Playing for Scale: The Future of Sports Investing': media rights, institutional capital, multi-club ownership, the new fan era, smart stadiums, generative AI, women's and college sport, and international expansion, each tied back to NextPlay's product and strategy, with takeaways at the end. Voices are AI-generated.</description>
+      <itunes:summary>A two-host deep dive into Goldman Sachs' October 2026 report 'Playing for Scale: The Future of Sports Investing': media rights, institutional capital, multi-club ownership, the new fan era, smart stadiums, generative AI, women's and college sport, and international expansion, each tied back to NextPlay's product and strategy, with takeaways at the end. Voices are AI-generated.</itunes:summary>
+      <pubDate>Thu, 26 Nov 2026 05:00:00 +1300</pubDate>
+      <guid isPermaLink="false">avicenna-briefing-ep01-playing-for-scale</guid>
+      <enclosure url="https://raw.githubusercontent.com/sharnobyl/gif-repo/main/avicenna-podcast/ep01-playing-for-scale.mp3" length="34052780" type="audio/mpeg"/>
+      <itunes:duration>00:47:03</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>1</itunes:episode>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://raw.githubusercontent.com/sharnobyl/gif-repo/main/avicenna-podcast/cover.jpg"/>
+    </item>
+  </channel>
+</rss>

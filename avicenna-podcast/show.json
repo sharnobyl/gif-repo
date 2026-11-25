@@ -1,0 +1,10 @@
+{
+  "title": "Avicenna Briefing",
+  "description": "Private deep-dive episodes made by Avicenna for Sharjil: reports and ideas, explained in detail and connected to NextPlay. Not listed in the Apple Podcasts directory.",
+  "author": "Avicenna",
+  "link": "https://github.com/sharnobyl/gif-repo/tree/main/avicenna-podcast",
+  "media_base": "https://raw.githubusercontent.com/sharnobyl/gif-repo/main/avicenna-podcast/",
+  "feed_url": "https://cdn.jsdelivr.net/gh/sharnobyl/gif-repo@main/avicenna-podcast/feed.xml",
+  "cover": "cover.jpg",
+  "out_dir": "."
+}
